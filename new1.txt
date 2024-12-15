@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 new23
+=======
+NEW56
+>>>>>>> e7de785e6b440368d5fed3d81d28a8f6b59a3748
 new1
 new2
